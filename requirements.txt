@@ -2,6 +2,6 @@ Flask
 pandas
 numpy
 datetime
-werkzeug.utils
+werkzeug
 mysql-connector-python
 gunicorn
