@@ -12,7 +12,7 @@ Python app.py
 ```
 
 
-![Demo Image](https://github.com/smit012/ML-Salary-Prediction/blob/main/Prediction_page.png)
+![Demo Image](https://github.com/smit012/Excel-File-Uploder-To-SQL/blob/main/Database%20Connector%20.png)
 
 <br>
 <hr>
