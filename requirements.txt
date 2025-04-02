@@ -1,0 +1,8 @@
+Flask
+pandas
+numpy
+datetime
+tempfile
+werkzeug.utils
+mysql-connector-python
+gunicorn
